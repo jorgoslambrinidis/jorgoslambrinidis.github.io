@@ -6,17 +6,17 @@ highlighter:      rouge
 permalink:        /blog/:year/:month/:day/:title/
 
 # Setup
-title:            "Mirche Toshevski"
-tagline:          "Mirche Toshevski's Blog"
+title:            "Jorgos Lambrinidis"
+tagline:          "Jorgos Lambrinidis's Blog"
 #description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-description:      '.NET developer, interested in <a href="https://www.asp.net/">ASP.NET</a>, <a href="https://www.xamarin.com/">Xamarin</a>, <a href="#">MSSQL</a>, fan of <a href="http://www.bbc.co.uk/programmes/b006q2x0">Doctor Who</a>'
-url:              https://neemesis.github.io
+description:      '.NET developer, interested in <a href="https://www.asp.net/">ASP.NET</a>
+url:              https://jorgoslambrinidis.github.io
 baseurl:          /
 hometitle:        "Posts"
 
 author:
-  name:           'Mirche Toshevski'
-  url:            https://www.linkedin.com/in/mirche-toshevski-9918b6108/
+  name:           'Jorgos Lambrinidis'
+  url:            https://mk.linkedin.com/in/jorgos-lambrinidis-a8a67868
 
 paginate:         5
 
@@ -26,7 +26,7 @@ version:          1.0.0.0
 logo:             /assets/home1.jpg
 
 github:
-  repo:           https://github.com/neemesis/neemesis.github.io
+  repo:           https://github.com/jorgoslambrinidis/jorgoslambrinidis.github.io
 
 # Plugins
 plugins:          [jekyll-paginate, jekyll-sitemap]
