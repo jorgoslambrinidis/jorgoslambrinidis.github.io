@@ -1,1 +1,1 @@
-# [My portfolio](http://atanevski.github.io/)
+# [My portfolio](https://jorgoslambrinidis.github.io/)
