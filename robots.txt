@@ -1,0 +1,3 @@
+Sitemap: https://atanevski.github.io/sitemap.xml
+User-Agent: *
+Disallow: 
